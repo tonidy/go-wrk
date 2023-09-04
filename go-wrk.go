@@ -10,11 +10,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/tsliwowicz/go-wrk/loader"
-	"github.com/tsliwowicz/go-wrk/util"
+	"github.com/tonidy/go-wrk/loader"
+	"github.com/tonidy/go-wrk/util"
 )
 
-const APP_VERSION = "0.9"
+const APP_VERSION = "1.0.2"
 
 //default that can be overridden from the command line
 var versionFlag bool = false
