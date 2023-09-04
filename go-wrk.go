@@ -14,7 +14,7 @@ import (
 	"github.com/tonidy/go-wrk/util"
 )
 
-const APP_VERSION = "1.0.3"
+const APP_VERSION = "1.0.4"
 
 //default that can be overridden from the command line
 var versionFlag bool = false
